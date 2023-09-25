@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **everything! :)**
 
-- 📫 How to reach me **cleonardo191@gmai.com**
+- 📫 How to reach me **cleonardo191@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/leonardosantoscarvalho/](https://www.linkedin.com/in/leonardosantoscarvalho/)
 
