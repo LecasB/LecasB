@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate developer from Portugal</h3>
-![coding](https://github.com/LecasB/LecasB/assets/33039074/412dc638-5fe6-495a-8600-eb15b42ab8d9)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lecasb&label=Profile%20views&color=0e75b6&style=flat" alt="lecasb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lecasb&label=Profile%20views&color=be93ba&style=flat" alt="lecasb" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lecaaaas" target="blank"><img src="https://img.shields.io/twitter/follow/lecaaaas?logo=twitter&style=for-the-badge" alt="lecaaaas" /></a> </p>
+
+- 🔭 I’m currently working in Deloitte **BrightStart**
+
+- 🌱 I’m currently learning **Vue, Angular, Tailwind, SASS**
+
+- 💬 Ask me about **everything! :)**
+
+- 📫 How to reach me **cleonardo191@gmai.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/leonardosantoscarvalho/](https://www.linkedin.com/in/leonardosantoscarvalho/)
+
+- ⚡ Fun fact **I'm kinda funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lecasb&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="lecasb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lecasb&show_icons=true&locale=en" alt="lecasb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lecasb&show_icons=true&theme=synthwave&locale=en" alt="lecasb" /></p>
+
+
