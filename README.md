@@ -12,10 +12,6 @@
 
 - 💬 Ask me about **everything! :)**
 
-- 📫 How to reach me **cleonardo191@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardosantoscarvalho/](https://www.linkedin.com/in/leonardosantoscarvalho/)
-
 - ⚡ Fun fact **I'm kinda funny :)**
 
 <h3 align="left">Connect with me:</h3>
