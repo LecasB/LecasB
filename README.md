@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/lecaaaas" target="blank"><img src="https://img.shields.io/twitter/follow/lecaaaas?logo=twitter&style=for-the-badge" alt="lecaaaas" /></a> </p>
 
-- 🔭 I’m currently working in Deloitte **BrightStart**
-
 - 🌱 I’m currently learning **Vue, Angular, Tailwind, SASS**
 
 - 💬 Ask me about **everything! :)**
