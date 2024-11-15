@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate developer from Portugal</h3>
+<h3 align="center">A passionate developer from Portugal!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lecasb&label=Profile%20views&color=be93ba&style=flat" alt="lecasb" /> </p>
 
