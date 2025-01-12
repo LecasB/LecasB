@@ -1,6 +1,6 @@
 <h1 align="center">Hello!! I'm Leonardo</h1>
 <h3 align="center">A very cool developer from Portugal</h3>
-
+<img src="https://cdn.discordapp.com/attachments/1283836450835664916/1327751570439405679/image.png?ex=67843482&is=6782e302&hm=f8a1550df75ba8c5dfe15a0fdd89a042d90f0c63039c338de2f3a04b44564cbb&"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lecasb&label=Profile%20views&color=0e75b6&style=flat" alt="lecasb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lecasb" alt="lecasb" /></a> </p>
